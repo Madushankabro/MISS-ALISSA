@@ -26,8 +26,7 @@ The following env variables are supported:
 
 ## Session String
 
-* [![Run on Repl.it](https://t.me/epu_stringsessionegneratorbot)
-
+* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](http://generatestringsession.sandeep1709.repl.run/)
 ## Variables
 
  - `API HASH AND ID`: Your Api Hash And Id from [here](https://my.telegram.org).
