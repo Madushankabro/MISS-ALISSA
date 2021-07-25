@@ -73,7 +73,7 @@ buttons = [
             text="➕ ADD TO YOUR GROUP ➕", url="t.me/MissAlissaBot?startgroup=true"),
     ],
      [
-        InlineKeyboardButton(text="⛑ Developer ⛑", url="https://t.me/kasu_bro""),
+        InlineKeyboardButton(text="⛑ Developer ⛑", url="https://t.me/kasu_bro"),
         InlineKeyboardButton(text="🤖 Main Channel 🤖", url=f"https://t.me/epusthakalaya_bots"),
      ],
      [  
