@@ -1,9 +1,9 @@
-<h1 align=center>😈EVIL BOT😈</h1>
-<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
+<h1 align=center>𝐌𝐈𝐒𝐒 𝐀𝐋𝐈𝐒𝐒𝐀</h1>
+<img src = "https://telegra.ph/file/b4c4e61e8a1a9eddee8f6.jpg">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shrvan42/EvilBot)</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Madushankabro/MISS-ALISSA)</p>
 <H2 align=center>___________</h2>
 
 ## Starting the bot.
@@ -26,7 +26,7 @@ The following env variables are supported:
 
 ## Session String
 
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](http://generatestringsession.sandeep1709.repl.run/)
+* [![Run on Repl.it](https://t.me/epu_stringsessionegneratorbot)
 
 ## Variables
 
@@ -59,3 +59,6 @@ The following env variables are supported:
  - `BAN_STICKER`: Which sticker to use when banning people.
  - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
 
+
+## Credits
+- [Original Repo](https://github.com/shrvan42/EvilBot)
